@@ -36,7 +36,7 @@ do
         else
         {
             Console.WriteLine($"{aString} NO es un número, intentalo de nuevo...");
-            return;
+            continue;
         }
 
         Console.WriteLine("Ingrese el segundo número...");
@@ -49,7 +49,7 @@ do
         else
         {
             Console.WriteLine($"{bString} NO es un número, intentalo de nuevo...");
-            return;
+            continue;
         }
 
         Console.WriteLine("Ingrese el tercer número...");
@@ -62,7 +62,7 @@ do
         else
         {
             Console.WriteLine($"{cString} NO es un número, intentalo de nuevo...");
-            return;
+            continue;
         }
 
         //if aInt is the biggest number

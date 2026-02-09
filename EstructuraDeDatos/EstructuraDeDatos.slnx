@@ -5,4 +5,7 @@
   <Folder Name="/Exercise2/">
     <Project Path="BiggerNumber/GreatestNumber.csproj" Id="a6d440fd-0d91-40e6-86e5-c81db17531e2" />
   </Folder>
+  <Folder Name="/Exercise3/">
+    <Project Path="NumberOrdenation/NumberSorting.csproj" Id="fbdf8132-45c5-4f06-a9e1-d332a31d06f2" />
+  </Folder>
 </Solution>
