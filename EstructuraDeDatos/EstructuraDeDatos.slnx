@@ -8,4 +8,7 @@
   <Folder Name="/Exercise3/">
     <Project Path="NumberOrdenation/NumberSorting.csproj" Id="fbdf8132-45c5-4f06-a9e1-d332a31d06f2" />
   </Folder>
+  <Folder Name="/Exercise4/">
+    <Project Path="IsMultipleOfAnotherOrNah/IsMultipleOfAnotherOrNah.csproj" Id="208168d4-bcd4-4ed3-8cf2-0ae3781b0529" />
+  </Folder>
 </Solution>
