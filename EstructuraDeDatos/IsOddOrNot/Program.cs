@@ -1,4 +1,4 @@
-﻿//Make app for looking if a number is odd or not odd
+﻿//Make app for looking if a number is odd or not odd...
 // Console.WriteLine("Escriba un número...");
 
 //Use var for defining variables, and then put the name of whatever your variable will be.
