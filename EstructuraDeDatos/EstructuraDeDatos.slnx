@@ -8,6 +8,9 @@
   <Folder Name="/Exercise11/">
     <Project Path="TransportBusiness/TransportBusiness.csproj" Id="a6874415-259f-49d8-8bfd-552cc0d03005" />
   </Folder>
+  <Folder Name="/Exercise12/">
+    <Project Path="NumberSeriesCalc/NumberSeriesCalc.csproj" Id="4c1a66ad-87ad-46bb-9cd4-6ab7056a9b70" />
+  </Folder>
   <Folder Name="/Exercise2/">
     <Project Path="BiggerNumber/GreatestNumber.csproj" Id="a6d440fd-0d91-40e6-86e5-c81db17531e2" />
   </Folder>
