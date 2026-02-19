@@ -23,6 +23,9 @@
   <Folder Name="/Exercise16/">
     <Project Path="CuadraticEcuation/CuadraticEcuation.csproj" Id="9dd0aa3c-4088-4a36-a6bc-6272328b8b61" />
   </Folder>
+  <Folder Name="/Exercise17/">
+    <Project Path="FibonacciSequence/FibonacciSequence.csproj" Id="68df2261-6dc4-415a-9342-560102896e34" />
+  </Folder>
   <Folder Name="/Exercise2/">
     <Project Path="BiggerNumber/GreatestNumber.csproj" Id="a6d440fd-0d91-40e6-86e5-c81db17531e2" />
   </Folder>
