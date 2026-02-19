@@ -11,6 +11,9 @@
   <Folder Name="/Exercise12/">
     <Project Path="NumberSeriesCalc/NumberSeriesCalc.csproj" Id="4c1a66ad-87ad-46bb-9cd4-6ab7056a9b70" />
   </Folder>
+  <Folder Name="/Exercise13/">
+    <Project Path="FactorialNumberCalc/FactorialNumberCalc.csproj" Id="3c8aa178-b71b-4767-98f9-5e19f23e8ce6" />
+  </Folder>
   <Folder Name="/Exercise2/">
     <Project Path="BiggerNumber/GreatestNumber.csproj" Id="a6d440fd-0d91-40e6-86e5-c81db17531e2" />
   </Folder>
