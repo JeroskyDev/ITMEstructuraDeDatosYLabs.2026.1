@@ -26,6 +26,9 @@
   <Folder Name="/Exercise17/">
     <Project Path="FibonacciSequence/FibonacciSequence.csproj" Id="68df2261-6dc4-415a-9342-560102896e34" />
   </Folder>
+  <Folder Name="/Exercise18/">
+    <Project Path="FibonacciSequenceMod/FibonacciSequenceMod.csproj" Id="f19db88a-dfb1-4fde-99a0-21e8d8b24132" />
+  </Folder>
   <Folder Name="/Exercise2/">
     <Project Path="BiggerNumber/GreatestNumber.csproj" Id="a6d440fd-0d91-40e6-86e5-c81db17531e2" />
   </Folder>
